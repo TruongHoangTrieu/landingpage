@@ -115,7 +115,7 @@ export default function HeroSection() {
                   WebkitTextFillColor: "transparent",
                   backgroundClip: "text",
                   fontWeight: "600",
-                  fontSize: "0.9rem",
+                  fontSize: "1.2rem",
                 }}
               >
                 Quản lý thẻ bài thông minh
